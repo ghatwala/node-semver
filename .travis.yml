@@ -1,12 +1,14 @@
 language: node_js
 
 node_js:
+  - 12
   - 11
   - 10
   - 8
 
-os:
-  - linux
+os: linux
+
+arch: arm64
 
 cache:
   directories:
