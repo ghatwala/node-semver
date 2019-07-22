@@ -10,9 +10,9 @@ os: linux
 
 arch: arm64
 
-cache:
-  directories:
-    - $HOME/.npm
+env:
+- 1=1
+- 2=2
 
 notifications:
   email: false
