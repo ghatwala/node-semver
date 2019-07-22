@@ -8,7 +8,7 @@ node_js:
 
 os: linux
 
-arch: power
+arch: arm64
 
 cache:
   directories:
