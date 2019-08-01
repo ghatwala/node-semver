@@ -8,7 +8,8 @@ node_js:
 
 os: linux
 
-arch: arm64
+#arch: arm64
+arch: power
 
 env:
 - 1=1
